@@ -71,6 +71,11 @@ Maju Jaya Service (MJS) adalah perusahaan layanan AC dan kulkas yang menyediakan
 ![Flowchart](./Flowchart%20MJS.png)
 
 ---
+### DataMentah
+![Flowchart](./DataMentahServiceMJS.jpg)
+
+---
+
 ### Wireframe Pelanggan Service
 **Tampilan Login Pelanggan**
 ![Flowchart](./WireframePelanggan/WireframePelangganPage1.png)
